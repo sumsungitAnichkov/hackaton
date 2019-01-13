@@ -1,0 +1,5 @@
+<resources>
+    <string name="appname">Хакатон</string>
+    <string name="error_portrait_orientation">Переверните устройство!</string>
+    <string name="btnStartGame">Начать игру</string>
+</resources>
